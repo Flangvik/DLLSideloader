@@ -10,7 +10,7 @@ https://flangvik.com/2019/07/24/Bypassing-AV-DLL-Side-Loading.html
 Demo using GUP.exe from NotePad ++, loading "proxy" libcurl:
 
 Loading payload.dll meterpreter shell
-[](https://flangvik.com/assets/dll-sideload-demogif.gif)
+![Meterpreter sideload](https://flangvik.com/assets/dll-sideload-demogif.gif)
 
 Loading C++ code getting revshell bypassing AV's
-[](https://youtu.be/pWJ_pd0QhFM)
+![AV Bypass](https://youtu.be/pWJ_pd0QhFM)
